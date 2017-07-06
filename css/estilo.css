@@ -1,0 +1,89 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+}
+body{
+    padding-top: 50px;
+}
+section{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+
+footer{
+    min-height: 15vh;
+}
+
+.navbar-brand{
+    font-weight: 800;
+}
+
+.thumbnail{
+    background-image: url(../img/bgslider.png)
+}
+
+.divslider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    background: url(../img/bgslider.svg);
+}
+
+#servicos{
+   margin-bottom: 15px;
+}
+
+#portfolio {
+    color: #fff;
+    background-image: url(../img/bgslider.svg); 
+}
+
+#localizacao{
+    background-image: url(../img/bgslider.svg); 
+}
+
+#contato {
+    min-height: 60vh;
+}
+#contato textarea {
+    height: 170px;
+    margin-bottom: 15px;
+}
+.thumbnail-equipe{
+    padding: 0 50px 10px;
+}
+
+.btn-serv {
+    width: 245px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.page-header{
+    padding-bottom: 30px;
+}
+
+.port-nomeCliente{
+    color: #000000;
+    background-color: #fff;
+    margin-top: 10px;
+     margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.to-top{
+    width: 100px;
+    height: 80px;
+    
+}
+.fa-linkedin-square {
+    color: black;
+}
+ 
+.fa-linkedin-square:hover{
+    color: #007BB6;
+}
